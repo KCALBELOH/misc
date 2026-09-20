@@ -8,3 +8,6 @@ Shape textures (wip):
 JT+ logo :
 <img width="1024" height="1024" alt="Icon" src="https://github.com/user-attachments/assets/3d7d621a-418a-4130-87b1-53f38525bdfd" />
 Adds 50 total textures, Real, misc, color.
+Press code and press zip.
+Then go to spaceflight simulator files, mods, custom assets, to texture packs, Put JT+ or Johns Textures+ there.
+Done.
